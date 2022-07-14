@@ -1,7 +1,7 @@
 import 'dart:convert';
 import 'package:flutter_dotenv/flutter_dotenv.dart';
 import 'package:http/http.dart' as http;
-import 'package:image_search/models/image_results.dart';
+import 'package:image_search/models/image_result.dart';
 import 'package:localstorage/localstorage.dart';
 
 class ImageResultService {

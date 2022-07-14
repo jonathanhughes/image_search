@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_dotenv/flutter_dotenv.dart';
 import 'package:image_search/components/image_result_scroll_container.dart';
-import 'package:image_search/models/image_results.dart';
+import 'package:image_search/models/image_result.dart';
 import 'package:image_search/services/image_result_service.dart';
 
 import 'components/search_bar.dart';

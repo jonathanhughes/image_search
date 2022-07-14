@@ -1,7 +1,7 @@
 import 'package:flutter/widgets.dart';
 import 'package:image_search/components/image_display_item.dart';
 
-import '../models/image_results.dart';
+import '../models/image_result.dart';
 
 class ImageResultScrollContainer extends StatelessWidget {
   final List<ImageResult> results;

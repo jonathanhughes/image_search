@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
-import 'package:image_search/models/image_results.dart';
+import 'package:image_search/models/image_result.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 class ImageDisplayItem extends StatelessWidget {
